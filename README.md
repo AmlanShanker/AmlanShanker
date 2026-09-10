@@ -335,7 +335,7 @@ https://github.com/AmlanShanker/Movie-ticket-booking-system
 
 ## 🎧 CURRENTLY IN THE CODE ZONE
 
-[![Spotify](https://img.shields.io/badge/Spotify-Listen%20with%20me-1DB954?style=for-the-badge\&logo=spotify\&logoColor=white)](YOUR_SPOTIFY_URL)
+[![Spotify](https://img.shields.io/badge/Spotify-Listen%20with%20me-1DB954?style=for-the-badge\&logo=spotify\&logoColor=white)](https://open.spotify.com/user/31sn7gyx4ndathbfr543f274hs3a?si=17d05db2b2404b4f)
 
 ```text
 ╔══════════════════════════════════════╗
@@ -373,23 +373,6 @@ https://github.com/AmlanShanker/Movie-ticket-booking-system
 ---
 
 <div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   ██████╗ ██████╗ ██████╗ ███████╗                          ║
-║   ██╔══██╗██╔══██╗██╔══██╗██╔════╝                          ║
-║   ██████╔╝██████╔╝██████╔╝█████╗                            ║
-║   ██╔═══╝ ██╔══██╗██╔══██╗██╔══╝                            ║
-║   ██║     ██║  ██║██║  ██║███████╗                          ║
-║   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝                          ║
-║                                                              ║
-║              KEEP BUILDING. KEEP LEARNING.                   ║
-║                                                              ║
-║                   SYSTEM OFFLINE...                          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00FFFF,50:7B2FF7,100:FF00CC&animation=twinkling" width="100%"/>
 
