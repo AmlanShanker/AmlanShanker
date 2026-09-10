@@ -434,5 +434,4 @@ TRACK  : [ CONNECT SPOTIFY ]
 ### `AMLAN_OS // END OF TRANSMISSION`
 
 </div>
-```
-This version deliberately removes the fragile **GitHub Readme Stats, Streak, Activity Graph, Profile Trophy, and contribution-snake generators**. That makes the dashboard much less likely to break while keeping the terminal/cyberpunk aesthetic. You can paste it directly into `README.md`.
+
