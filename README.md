@@ -259,13 +259,13 @@ https://github.com/AmlanShanker/Movie-ticket-booking-system
 
 ### 📊 SYSTEM STATISTICS
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AmlanShanker&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050505&title_color=00ffff&icon_color=00ffff&text_color=ffffff&count_private=true&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AmlanShanker&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050505&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmlanShanker&layout=compact&hide_border=true&theme=tokyonight&bg_color=050505&title_color=00ffff&text_color=ffffff&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmlanShanker&layout=compact&hide_border=true&theme=tokyonight&bg_color=050505&title_color=00FFFF&text_color=FFFFFF&langs_count=8" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=AmlanShanker&theme=black-ice&hide_border=true&background=050505&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" width="80%"/>
+<img src="https://streak-stats.demolab.com?user=AmlanShanker&theme=black-ice&hide_border=true&background=050505&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" width="80%" />
 
 </div>
 
@@ -275,7 +275,7 @@ https://github.com/AmlanShanker/Movie-ticket-booking-system
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmlanShanker&bg_color=050505&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmlanShanker&bg_color=050505&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" width="95%" />
 
 </div>
 
@@ -285,7 +285,7 @@ https://github.com/AmlanShanker/Movie-ticket-booking-system
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AmlanShanker&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AmlanShanker&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="95%" />
 
 </div>
 
@@ -335,7 +335,9 @@ https://github.com/AmlanShanker/Movie-ticket-booking-system
 
 ## 🎧 CURRENTLY IN THE CODE ZONE
 
-[![Spotify](https://img.shields.io/badge/Spotify-Listen%20with%20me-1DB954?style=for-the-badge\&logo=spotify\&logoColor=white)](https://open.spotify.com/user/31sn7gyx4ndathbfr543f274hs3a?si=17d05db2b2404b4f)
+<a href="https://open.spotify.com/user/31sn7gyx4ndathbfr543f274hs3a?si=17d05db2b2404b4f">
+<img src="https://img.shields.io/badge/Spotify-Listen%20with%20me-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
 
 ```text
 ╔══════════════════════════════════════╗
@@ -352,6 +354,7 @@ https://github.com/AmlanShanker/Movie-ticket-booking-system
 </div>
 
 ---
+
 # `~/connect`
 
 <div align="center">
