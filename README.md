@@ -295,7 +295,11 @@ https://github.com/AmlanShanker/Movie-ticket-booking-system
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AmlanShanker/AmlanShanker/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution snake"/>
+<img
+  src="https://raw.githubusercontent.com/AmlanShanker/AmlanShanker/output/github-contribution-grid-snake-dark.svg"
+  width="95%"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
 
