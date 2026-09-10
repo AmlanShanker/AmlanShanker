@@ -1,14 +1,10 @@
 <div align="center">
 
-# `AMLAN_OS`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:061a17,70:003b3b,100:050505&height=190&section=header&text=AMLAN%20SHANKER&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%7C%20ANDROID&descAlignY=58&descSize=15"/>
 
-### `SYSTEM ONLINE // DEVELOPER PROFILE`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=17\&duration=2600\&pause=900\&color=00FF9D\&center=true\&vCenter=true\&width=720\&lines=%3E+initializing+AMLAN_OS...;%3E+loading+developer+profile...;%3E+full-stack+development+%5BONLINE%5D;%3E+AI+systems+%5BONLINE%5D;%3E+ready+to+build.)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00ff9d,100:00e5ff&height=180&section=header&text=AMLAN%20SHANKER&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20BUILDER%20%7C%20PROBLEM%20SOLVER&descAlignY=58&descSize=15"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=18\&duration=2800\&pause=900\&color=00FF9D\&center=true\&vCenter=true\&width=700\&lines=Initializing+AMLAN_OS...;Full+Stack+Developer;MERN+%7C+Kotlin+%7C+AI;Building+systems+that+solve+real+problems;Access+granted.)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=AmlanShanker\&label=PROFILE+VIEWS\&color=00ff9d\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AmlanShanker\&label=PROFILE%20VIEWS\&color=00ff9d\&style=for-the-badge)
 
 </div>
 
@@ -17,220 +13,204 @@
 ```text
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                         AMLAN_OS v2.0                               ║
-║                     DEVELOPER CONTROL PANEL                        ║
+║                     DEVELOPER DASHBOARD                             ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║  [●] SYSTEM STATUS     ONLINE                                       ║
-║  [●] CORE             SOFTWARE ENGINEERING                          ║
-║  [●] MODE             BUILD / LEARN / SHIP                          ║
-║  [●] UPTIME           ∞                                              ║
-║  [●] THREAT LEVEL     LOW                                            ║
+║  SYSTEM       ● ONLINE                                               ║
+║  PROFILE      Amlan Shanker                                         ║
+║  ROLE         Full Stack Developer                                  ║
+║  FOCUS        MERN / AI / Android                                   ║
 ║                                                                      ║
-║  > connection established                                            ║
-║  > authentication successful                                         ║
-║  > loading developer profile...                                      ║
-║  > welcome, operator.                                                ║
+║  CORE         ████████████████████████████████████  ONLINE          ║
+║  PROJECTS     ████████████████████████████████████  ACTIVE          ║
+║  LEARNING     ███████████████████████████████████░  ONGOING         ║
+║                                                                      ║
+║  > profile loaded                                                   ║
+║  > modules initialized                                               ║
+║  > dashboard ready                                                   ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-## `root@amlan:~$ whoami`
+# `~/profile`
 
-```bash
-┌──[ AMLAN ]───────────────────────────────────────────────────────────┐
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│ PROFILE                                                              │
+├──────────────────────────────────────────────────────────────────────┤
 │                                                                      │
 │  NAME        : Amlan Shanker                                        │
 │  ROLE        : Full Stack Developer                                 │
-│  SPECIALITY  : MERN • AI • Android                                  │
-│  CURRENT     : Building & experimenting                            │
-│  MINDSET     : Learn → Build → Break → Fix → Ship                  │
+│  SPECIALITY  : Web • AI • Android                                   │
+│  STATUS      : Available                                            │
 │                                                                      │
-│  STATUS      : [ ONLINE ]                                            │
-│  AVAILABILITY: [ OPEN TO OPPORTUNITIES ]                            │
+│  I build full-stack applications, explore AI-powered products,      │
+│  and develop practical software across web and Android platforms.   │
 │                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `~/system/about`
-
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│ ABOUT.EXE                                                           │
-├──────────────────────────────────────────────────────────────────────┤
+│  My approach:                                                       │
 │                                                                      │
-│  I build full-stack applications, experiment with AI-powered        │
-│  products, and enjoy turning ideas into working software.           │
-│                                                                      │
-│  My main playground is the MERN ecosystem, while I also build        │
-│  Android applications with Kotlin and explore AI/SaaS systems.      │
-│                                                                      │
-│  I care about clean interfaces, useful products, and continuously   │
-│  improving the engineering behind what I build.                     │
+│      LEARN  →  BUILD  →  IMPROVE  →  SHIP                           │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `~/system/mission`
+# `~/stack`
 
 ```text
-MISSION CONTROL
-
-[01] BUILD
-     Turn ideas into usable software.
-
-[02] EXPLORE
-     Learn technologies by actually shipping with them.
-
-[03] SOLVE
-     Break complicated problems into simple systems.
-
-[04] EVOLVE
-     Improve code, architecture, UI and engineering judgment.
-
-[05] SHIP
-     Finished > perfect.
+╔══════════════════════════════════════════════════════════════════════╗
+║                         TECHNOLOGY STACK                            ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  FRONTEND        ████████████████████████████████████               ║
+║  BACKEND         ███████████████████████████████████░               ║
+║  DATABASE        ██████████████████████████████████░░               ║
+║  ANDROID         ██████████████████████████████░░░░░               ║
+║  AI / SAAS       ██████████████████████████████░░░░░               ║
+║  DEVELOPMENT     ████████████████████████████████████               ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
----
+<div align="center">
 
-# `~/skills`
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,kotlin,android,python,git,github,vscode,figma&perline=8"/>
 
-### `TECH_STACK.exe`
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,kotlin,android,python,git,github,vscode,figma&perline=8" />
-
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│ SKILL MATRIX                                                        │
-├──────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│ JavaScript     ████████████████████░░  90%                         │
-│ React          ███████████████████░░░  85%                         │
-│ Node.js        ███████████████████░░░  85%                         │
-│ Express        ██████████████████░░░░  80%                         │
-│ MongoDB        ██████████████████░░░░  80%                         │
-│ Kotlin         ████████████████░░░░░░  70%                         │
-│ Java           ████████████████░░░░░░  70%                         │
-│ Python         ██████████████░░░░░░░░  65%                         │
-│ Git            ████████████████████░░  90%                         │
-│ UI / UX        ████████████████░░░░░░  70%                         │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
+</div>
 
 ---
 
 # `~/projects`
 
 ```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                         PROJECT DATABASE                            ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  PROJECT 01  ::  FINANCE DASHBOARD                                  ║
-║  STACK       ::  MERN                                                ║
-║  STATUS      ::  [ COMPLETED / ITERATING ]                         ║
-║                                                                      ║
-║  PROJECT 02  ::  EXPENSE TRACKER                                    ║
-║  STACK       ::  MERN                                                ║
-║  STATUS      ::  [ COMPLETED / ITERATING ]                         ║
-║                                                                      ║
-║  PROJECT 03  ::  GENZENIUS                                         ║
-║  STACK       ::  AI / SaaS                                          ║
-║  STATUS      ::  [ ACTIVE ]                                         ║
-║                                                                      ║
-║  PROJECT 04  ::  NOTES APP                                          ║
-║  STACK       ::  KOTLIN / ANDROID                                  ║
-║  STATUS      ::  [ COMPLETED ]                                     ║
-║                                                                      ║
-║  PROJECT 05  ::  SOCIAL MEDIA                                      ║
-║  STACK       ::  MERN                                                ║
-║  STATUS      ::  [ COMPLETED / ITERATING ]                         ║
-║                                                                      ║
-║  PROJECT 06  ::  MOVIE TICKET BOOKING                              ║
-║  STACK       ::  WEB APPLICATION                                    ║
-║  STATUS      ::  [ COMPLETED ]                                     ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+> loading project database...
+> scanning repositories...
+> 6 projects found
+> displaying project records
 ```
 
 <details>
-<summary><b>01 ▸ FINANCE DASHBOARD</b></summary>
+<summary><b>PROJECT_01 :: FINANCE DASHBOARD</b></summary>
 
-### `Finance Dashboard`
+```text
+┌──────────────────────────────────────────────┐
+│ FINANCE DASHBOARD                            │
+├──────────────────────────────────────────────┤
+│ STACK  : MERN                                │
+│ TYPE   : Full Stack Application              │
+│ STATUS : ACTIVE                              │
+└──────────────────────────────────────────────┘
+```
 
-Full-stack finance dashboard built using the MERN stack.
+A full-stack finance dashboard built around the MERN stack.
 
-**Stack:** MongoDB • Express • React • Node.js
+**Technologies:** MongoDB • Express • React • Node.js
 
-[→ Open Repository](https://github.com/AmlanShanker/MERN-Stack-Finance-Dashboard-App)
-
-</details>
-
-<details>
-<summary><b>02 ▸ EXPENSE TRACKER</b></summary>
-
-### `Expense Tracker`
-
-Expense management application designed around tracking and organizing personal finances.
-
-**Stack:** MongoDB • Express • React • Node.js
-
-[→ Open Repository](https://github.com/AmlanShanker/Expense-Tracker-MERN-Stack)
+[View Repository →](https://github.com/AmlanShanker/MERN-Stack-Finance-Dashboard-App)
 
 </details>
 
 <details>
-<summary><b>03 ▸ GENZENIUS</b></summary>
+<summary><b>PROJECT_02 :: EXPENSE TRACKER</b></summary>
 
-### `GenZenius`
+```text
+┌──────────────────────────────────────────────┐
+│ EXPENSE TRACKER                              │
+├──────────────────────────────────────────────┤
+│ STACK  : MERN                                │
+│ TYPE   : Full Stack Application              │
+│ STATUS : ACTIVE                              │
+└──────────────────────────────────────────────┘
+```
 
-AI-powered SaaS project exploring intelligent application experiences.
+Expense tracking application developed using the MERN stack.
 
-**Stack:** AI • SaaS • Web
+**Technologies:** MongoDB • Express • React • Node.js
 
-[→ Open Repository](https://github.com/AmlanShanker/GenZenius-AI-powered-SAAS)
-
-</details>
-
-<details>
-<summary><b>04 ▸ NOTES APP</b></summary>
-
-### `Notes App`
-
-Android notes application built with Kotlin.
-
-**Stack:** Kotlin • Android
-
-[→ Open Repository](https://github.com/AmlanShanker/NotesApp)
+[View Repository →](https://github.com/AmlanShanker/Expense-Tracker-MERN-Stack)
 
 </details>
 
 <details>
-<summary><b>05 ▸ SOCIAL MEDIA</b></summary>
+<summary><b>PROJECT_03 :: GENZENIUS</b></summary>
 
-### `Social Media`
+```text
+┌──────────────────────────────────────────────┐
+│ GENZENIUS                                    │
+├──────────────────────────────────────────────┤
+│ STACK  : AI / SaaS                           │
+│ TYPE   : AI-powered Application              │
+│ STATUS : ACTIVE                              │
+└──────────────────────────────────────────────┘
+```
 
-Full-stack social media application built with the MERN stack.
+An AI-powered SaaS project focused on building intelligent application experiences.
 
-**Stack:** MongoDB • Express • React • Node.js
+**Technologies:** AI • SaaS • Web
 
-[→ Open Repository](https://github.com/AmlanShanker/Social-Media-MERN-Stack)
+[View Repository →](https://github.com/AmlanShanker/GenZenius-AI-powered-SAAS)
 
 </details>
 
 <details>
-<summary><b>06 ▸ MOVIE TICKET BOOKING</b></summary>
+<summary><b>PROJECT_04 :: NOTES APP</b></summary>
 
-### `Movie Ticket Booking System`
+```text
+┌──────────────────────────────────────────────┐
+│ NOTES APP                                    │
+├──────────────────────────────────────────────┤
+│ STACK  : Kotlin / Android                    │
+│ TYPE   : Mobile Application                  │
+│ STATUS : ACTIVE                              │
+└──────────────────────────────────────────────┘
+```
 
-Web-based movie ticket booking project.
+Android notes application developed with Kotlin.
 
-[→ Open Repository](https://github.com/AmlanShanker/Movie-ticket-booking-system)
+**Technologies:** Kotlin • Android
+
+[View Repository →](https://github.com/AmlanShanker/NotesApp)
+
+</details>
+
+<details>
+<summary><b>PROJECT_05 :: SOCIAL MEDIA</b></summary>
+
+```text
+┌──────────────────────────────────────────────┐
+│ SOCIAL MEDIA                                 │
+├──────────────────────────────────────────────┤
+│ STACK  : MERN                                │
+│ TYPE   : Full Stack Application              │
+│ STATUS : ACTIVE                              │
+└──────────────────────────────────────────────┘
+```
+
+A full-stack social media application built with the MERN stack.
+
+**Technologies:** MongoDB • Express • React • Node.js
+
+[View Repository →](https://github.com/AmlanShanker/Social-Media-MERN-Stack)
+
+</details>
+
+<details>
+<summary><b>PROJECT_06 :: MOVIE TICKET BOOKING</b></summary>
+
+```text
+┌──────────────────────────────────────────────┐
+│ MOVIE TICKET BOOKING                         │
+├──────────────────────────────────────────────┤
+│ STACK  : Web Technologies                    │
+│ TYPE   : Booking Application                 │
+│ STATUS : ACTIVE                              │
+└──────────────────────────────────────────────┘
+```
+
+Movie ticket booking application focused on managing the booking experience.
+
+[View Repository →](https://github.com/AmlanShanker/Movie-ticket-booking-system)
 
 </details>
 
@@ -239,28 +219,25 @@ Web-based movie ticket booking project.
 # `~/github`
 
 ```text
-┌──────────────────────────────────────────────────────────────────────┐
-│ GITHUB CORE                                                         │
-├──────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  ACCOUNT       @AmlanShanker                                        │
-│  PLATFORM      GitHub                                                │
-│  REPOSITORIES  [ LOADED ]                                           │
-│  CODEBASE      [ ACTIVE ]                                           │
-│  CONTRIBUTIONS [ TRACKING ]                                        │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════╗
+║                           GITHUB CORE                               ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  USER          : @AmlanShanker                                     ║
+║  REPOSITORIES  : ACTIVE                                              ║
+║  SOURCE        : PUBLIC                                              ║
+║  STATUS        : ● CONNECTED                                         ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/AmlanShanker?style=for-the-badge\&logo=github\&label=FOLLOWERS)
+[![Followers](https://img.shields.io/github/followers/AmlanShanker?style=for-the-badge\&logo=github\&label=FOLLOWERS\&color=00ff9d)](https://github.com/AmlanShanker)
 
-![GitHub stars](https://img.shields.io/github/stars/AmlanShanker?style=for-the-badge\&logo=github\&label=TOTAL%20STARS)
+[![Stars](https://img.shields.io/github/stars/AmlanShanker?style=for-the-badge\&logo=github\&label=STARS\&color=00e5ff)](https://github.com/AmlanShanker?tab=repositories)
 
-![Repositories](https://img.shields.io/badge/Repositories-Active-00ff9d?style=for-the-badge\&logo=github)
-
-![Open Source](https://img.shields.io/badge/Open%20Source-Active-00e5ff?style=for-the-badge\&logo=github)
+[![GitHub](https://img.shields.io/badge/GITHUB-ACTIVE-ff00ff?style=for-the-badge\&logo=github)](https://github.com/AmlanShanker)
 
 </div>
 
@@ -270,26 +247,26 @@ Web-based movie ticket booking project.
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════╗
-║                        ACTIVITY MONITOR                             ║
+║                       DEVELOPMENT ACTIVITY                          ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║   CODE        ████████████████████████████████                     ║
-║   LEARN       ████████████████████████░░░░░░                       ║
-║   BUILD       ████████████████████████████████                     ║
-║   EXPERIMENT  ███████████████████░░░░░░░░░                         ║
+║  BUILDING        ████████████████████████████████████               ║
+║  DEVELOPMENT     ████████████████████████████████████               ║
+║  LEARNING        ██████████████████████████████████░░               ║
+║  EXPERIMENTING   ███████████████████████████████░░░░               ║
 ║                                                                      ║
-║   CURRENT MODE:                                                     ║
+║  CURRENT STATE   : ● ACTIVE                                         ║
 ║                                                                      ║
-║       >>> BUILD                                                     ║
-║                                                                      ║
-║   Last command: git push origin main                                ║
-║   Status      : SUCCESS                                             ║
+║  FOCUS                                                                   ║
+║  ├── Full-stack applications                                        ║
+║  ├── AI-powered systems                                              ║
+║  ├── Android development                                             ║
+║  └── Software architecture                                           ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-**Live contribution history:**
-[→ View GitHub Contributions](https://github.com/AmlanShanker)
+[View GitHub Activity →](https://github.com/AmlanShanker)
 
 ---
 
@@ -297,70 +274,86 @@ Web-based movie ticket booking project.
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────┐
-│ ACHIEVEMENT LOG                                                     │
+│ DEVELOPMENT RECORD                                                  │
 ├──────────────────────────────────────────────────────────────────────┤
 │                                                                      │
-│  [✓] Built multiple full-stack applications                        │
-│  [✓] Developed MERN-based systems                                  │
-│  [✓] Built an AI-powered SaaS project                              │
-│  [✓] Developed Android applications with Kotlin                    │
-│  [✓] Worked across frontend + backend systems                      │
-│  [✓] Continuously expanding technical stack                        │
+│  [✓] Full-stack MERN applications                                   │
+│  [✓] AI-powered SaaS development                                   │
+│  [✓] Android applications with Kotlin                              │
+│  [✓] Frontend development                                           │
+│  [✓] Backend development                                            │
+│  [✓] Database-driven applications                                   │
+│  [✓] Git / GitHub                                                    │
+│  [✓] Continuous experimentation                                     │
 │                                                                      │
-│  NEXT_UNLOCK:                                                       │
+│  ────────────────────────────────────────────────────────────────    │
 │                                                                      │
-│  [ ] Build something users actually depend on                      │
-│  [ ] Master deeper system architecture                              │
-│  [ ] Ship bigger AI-powered products                               │
+│  NEXT OBJECTIVES                                                    │
+│                                                                      │
+│  [ ] Larger production systems                                      │
+│  [ ] Advanced system architecture                                   │
+│  [ ] More AI-powered products                                       │
+│  [ ] Build software used by real people                             │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `~/terminal`
+# `~/process`
 
-```bash
-┌──(amlan㉿github)-[~]
-└─$ ls
-
-about/       achievements/     projects/
-activity/    github/           skills/
-mission/     terminal/         contact/
-
-┌──(amlan㉿github)-[~]
-└─$ cat status.txt
-
-SYSTEM        : AMLAN_OS
-ENVIRONMENT   : DEVELOPMENT
-STACK         : MERN / KOTLIN / AI
-MODE          : BUILDING
-COFFEE        : REQUIRED
-BUGS          : EXPECTED
-MOTIVATION    : 100%
-
-┌──(amlan㉿github)-[~]
-└─$ ./build_future.sh
-
-[████████████████████████████████████████] 100%
-
-BUILD COMPLETE.
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                         CURRENT PROCESS                             ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  LEARNING       :: Advanced full-stack development                  ║
+║  EXPLORING      :: AI-powered applications                         ║
+║  BUILDING       :: New software systems                             ║
+║  IMPROVING      :: Architecture / UI / UX                           ║
+║  DEVELOPING     :: Web + Android                                    ║
+║                                                                      ║
+║  WORKFLOW       ::                                                   ║
+║                                                                      ║
+║       IDEA → DESIGN → DEVELOP → TEST → IMPROVE → SHIP               ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# `~/currently`
+# `~/terminal`
 
 ```text
-CURRENTLY.EXE
+┌──────────────────────────────────────────────────────────────────────┐
+│ amlan@github:~$                                                     │
+└──────────────────────────────────────────────────────────────────────┘
 
-> learning        : advanced full-stack engineering
-> exploring       : AI-powered applications
-> building        : new ideas
-> improving       : architecture + UI
-> reading         : source code
-> debugging       : everything
-> avoiding        : unnecessary complexity
+$ status
+
+SYSTEM       : AMLAN_OS
+ENVIRONMENT  : DEVELOPMENT
+STACK        : MERN / AI / KOTLIN
+PROJECTS     : ACTIVE
+STATUS       : ONLINE
+
+$ mission
+
+Build useful software.
+Learn continuously.
+Keep improving.
+
+$ progress
+
+[████████████████████████████████████████████████] 100%
+
+$ next
+
+Build → Learn → Iterate → Repeat
+
+$ exit
+
+session remains active...
 ```
 
 ---
@@ -369,69 +362,90 @@ CURRENTLY.EXE
 
 <div align="center">
 
-### `ESTABLISH CONNECTION`
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=00ff9d)](https://github.com/AmlanShanker)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=00e5ff)](https://www.linkedin.com/)
-[![Spotify](https://img.shields.io/badge/Spotify-000000?style=for-the-badge\&logo=spotify\&logoColor=00ff9d)](https://open.spotify.com/)
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│       CONNECTION STATUS : READY              │
-│                                              │
-│       github     [ ONLINE ]                  │
-│       linkedin   [ ONLINE ]                  │
-│       spotify    [ ONLINE ]                  │
-│                                              │
-│       Awaiting incoming connection...        │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# `~/music`
-
-<div align="center">
-
-[![Spotify](https://img.shields.io/badge/Spotify-Currently%20Listening-1DB954?style=for-the-badge\&logo=spotify\&logoColor=white)](https://open.spotify.com/)
-
-```text
-♫ MUSIC SUBSYSTEM
-
-STATUS : ONLINE
-MODE   : CODING
-TRACK  : [ CONNECT SPOTIFY ]
-```
-
-</div>
-
----
-
 ```text
 ╔══════════════════════════════════════════════════════════════════════╗
+║                          CONNECTIONS                                ║
+╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║                    AMLAN_OS SHUTDOWN MESSAGE                       ║
+║  GITHUB       :: SOURCE CODE                                        ║
+║  LINKEDIN     :: PROFESSIONAL NETWORK                               ║
+║  SPOTIFY      :: MUSIC / PLAYLISTS                                  ║
 ║                                                                      ║
-║  "The best way to learn software is to build software."            ║
-║                                                                      ║
-║  SYSTEM STATUS : ONLINE                                             ║
-║  OPERATOR      : AMLAN SHANKER                                     ║
-║  SESSION       : ACTIVE                                             ║
-║                                                                      ║
-║                    > Keep building.                                 ║
+║  STATUS       :: ● CONNECTIONS AVAILABLE                            ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
+[![GitHub](https://img.shields.io/badge/GITHUB-00ff9d?style=for-the-badge\&logo=github\&logoColor=050505)](https://github.com/AmlanShanker)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:00ff9d,100:050505&height=120&section=footer"/>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00e5ff?style=for-the-badge\&logo=linkedin\&logoColor=050505)](https://www.linkedin.com/in/amlan-shanker/)
 
-### `AMLAN_OS // END OF TRANSMISSION`
+[![Spotify](https://img.shields.io/badge/SPOTIFY-ff00ff?style=for-the-badge\&logo=spotify\&logoColor=ffffff)](https://open.spotify.com/user/31sn7gyx4ndathbfr543f274hs3a?si=d11d384ff5874dbe)
 
 </div>
 
+```text
+$ connect --github
+
+> github.com/AmlanShanker
+> connection established
+> status: ONLINE
+```
+
+```text
+$ connect --linkedin
+
+> professional network
+> status: AVAILABLE
+```
+
+```text
+$ connect --spotify
+
+> music profile
+> status: AVAILABLE
+```
+
+---
+
+# `~/system`
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                           SYSTEM LOG                                ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  [ OK ] Profile loaded                                              ║
+║  [ OK ] Technology stack initialized                                ║
+║  [ OK ] Project database loaded                                     ║
+║  [ OK ] GitHub connection established                               ║
+║  [ OK ] Development environment ready                               ║
+║                                                                      ║
+║  SYSTEM STATUS : ● ONLINE                                           ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                         AMLAN_OS                                    ║
+║                                                                      ║
+║                  DEVELOPER SESSION ACTIVE                           ║
+║                                                                      ║
+║                  BUILDING • LEARNING • IMPROVING                    ║
+║                                                                      ║
+║                         [ ONLINE ]                                  ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:003b3b,70:00e5ff,100:00ff9d&height=120&section=footer"/>
+
+`AMLAN_OS // SESSION ACTIVE`
+
+</div>
