@@ -5,7 +5,7 @@ Usage:
   python scripts/update_profile.py          # live run (needs GH_TOKEN)
   python scripts/update_profile.py --demo   # offline placeholder using a few verified facts
 """
-import json, os, re, sys, urllib.request
+import hashlib, json, os, re, sys, urllib.request
 from datetime import datetime
 from pathlib import Path
 from xml.sax.saxutils import escape as esc
@@ -227,13 +227,26 @@ def main():
         if not TOKEN:
             sys.exit("GH_TOKEN is not set")
         u = fetch()
-    (ROOT / "assets").mkdir(exist_ok=True)
-    (ROOT / "assets" / "stats.svg").write_text(build_stats(u), encoding="utf-8")
-    (ROOT / "assets" / "dunes.svg").write_text(build_dunes(u), encoding="utf-8")
+    assets = ROOT / "assets"
+    assets.mkdir(exist_ok=True)
+    stats = build_stats(u)
+    dunes = build_dunes(u)
+    (assets / "stats.svg").write_text(stats, encoding="utf-8")
+    (assets / "dunes.svg").write_text(dunes, encoding="utf-8")
+
+    # GitHub can cache profile images aggressively. A content-derived query
+    # string changes only when an SVG changes, forcing the rendered README to
+    # request the new asset without creating commits on every scheduled run.
+    stats_v = hashlib.sha256(stats.encode("utf-8")).hexdigest()[:12]
+    dunes_v = hashlib.sha256(dunes.encode("utf-8")).hexdigest()[:12]
     rd = ROOT / "README.md"
     t = rd.read_text(encoding="utf-8")
     t = sub(t, "FACTS", facts_md(u))
     t = sub(t, "REPOS", repos_md(u))
+    t = re.sub(r'src="(?:\\./)?assets/stats\\.svg(?:\\?v=[^"]*)?"',
+               'src="./assets/stats.svg?v=%s"' % stats_v, t)
+    t = re.sub(r'src="(?:\\./)?assets/dunes\\.svg(?:\\?v=[^"]*)?"',
+               'src="./assets/dunes.svg?v=%s"' % dunes_v, t)
     rd.write_text(t, encoding="utf-8")
     print("updated for", u["login"], "(demo)" if demo else "")
 
