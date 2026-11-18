@@ -243,9 +243,9 @@ def main():
     t = rd.read_text(encoding="utf-8")
     t = sub(t, "FACTS", facts_md(u))
     t = sub(t, "REPOS", repos_md(u))
-    t = re.sub(r'src="(?:\\./)?assets/stats\\.svg(?:\\?v=[^"]*)?"',
+    t = re.sub(r'src="(?:\./)?assets/stats\.svg(?:\?v=[^"]*)?"',
                'src="./assets/stats.svg?v=%s"' % stats_v, t)
-    t = re.sub(r'src="(?:\\./)?assets/dunes\\.svg(?:\\?v=[^"]*)?"',
+    t = re.sub(r'src="(?:\./)?assets/dunes\.svg(?:\?v=[^"]*)?"',
                'src="./assets/dunes.svg?v=%s"' % dunes_v, t)
     rd.write_text(t, encoding="utf-8")
     print("updated for", u["login"], "(demo)" if demo else "")
