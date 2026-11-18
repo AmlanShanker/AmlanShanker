@@ -24,7 +24,7 @@ CONTRIB = """contributionsCollection{totalCommitContributions totalPullRequestCo
   contributionCalendar{totalContributions weeks{firstDay contributionDays{contributionCount}}}}"""
 QUERY = """query($login:String!){user(login:$login){name login bio location company websiteUrl
   createdAt followers{totalCount} following{totalCount} starredRepositories{totalCount}
-  repositories(first:100,ownerAffiliation:OWNER,privacy:PUBLIC,orderBy:{field:PUSHED_AT,direction:DESC})
+  repositories(first:100,affiliations:[OWNER],privacy:PUBLIC,orderBy:{field:PUSHED_AT,direction:DESC})
   {totalCount nodes{%s}} %s}}"""
 
 
