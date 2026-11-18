@@ -195,24 +195,82 @@ def facts_md(u):
     return "\n".join(out)
 
 
+def readme_info(repo):
+    """Return a short README-derived summary and an advertised live URL."""
+    url = "https://api.github.com/repos/%s/%s/readme" % (USER, repo["name"])
+    req = urllib.request.Request(url, headers={
+        "Authorization": "bearer " + TOKEN,
+        "Accept": "application/vnd.github.raw",
+        "User-Agent": "profile-updater",
+    })
+    try:
+        with urllib.request.urlopen(req, timeout=20) as response:
+            raw = response.read().decode("utf-8", "replace")
+    except Exception as e:
+        print("README unavailable for %s: %s" % (repo["name"], e))
+        return (repo.get("description") or "—", repo.get("homepageUrl"))
+
+    candidates = []
+    in_code = False
+    for line in raw.splitlines():
+        s = line.strip()
+        if s.startswith(chr(96) * 3) or s.startswith("~~~"):
+            in_code = not in_code
+            continue
+        if in_code or not s or s.startswith(("#", "![", "<", "---", "***", "|", ">", "- ", "* ")):
+            continue
+        if re.match(r"^https?://\S+$", s):
+            continue
+        s = re.sub(r"\[([^]]+)\]\((https?://[^)]+)\)", r"\1", s)
+        s = re.sub(r"<https?://[^>]+>", "", s)
+        s = re.sub(r"https?://\S+", "", s)
+        s = re.sub(r"[*_~]", "", s)
+        s = re.sub(r"\s+", " ", s).strip(" -:|")
+        if len(s) >= 35 and not re.match(r"^(website link|live demo|repository|author|license)\b", s, re.I):
+            candidates.append(s)
+        if len(candidates) >= 2:
+            break
+    summary = " ".join(candidates)
+    if summary:
+        summary = " ".join(re.split(r"(?<=[.!?])\s+", summary)[:2])
+        if len(summary) > 220:
+            summary = summary[:217].rsplit(" ", 1)[0] + "..."
+    else:
+        summary = repo.get("description") or "—"
+
+    live = None
+    lines = raw.splitlines()
+    for i, line in enumerate(lines):
+        if re.search(r"live|demo|website|deployed|frontend|view portfolio|open dashboard", line, re.I):
+            window = " ".join(lines[i:i + 3])
+            urls = re.findall(r"https?://[^\s)\]>]+", window)
+            urls = [u.rstrip(".,;") for u in urls if "github.com/" not in u and "localhost" not in u]
+            if urls:
+                live = urls[0]
+                break
+    return (summary, live or repo.get("homepageUrl"))
+
+
 def repos_md(u):
     nodes = u["repositories"]["nodes"]
     own = [r for r in nodes if not r["isFork"]]
-    out = ["| Repository | Description | Language | \u2605 | Forks | Last push |", "| :-- | :-- | :-- | :-: | :-: | :-- |"]
+    out = ["| Repository | Description | Live | Language | ★ | Forks | Last push |",
+           "| :-- | :-- | :-- | :-- | :-: | :-: | :-- |"]
     for r in own:
-        pl = (r.get("primaryLanguage") or {}).get("name", "\u2014")
-        desc = (r.get("description") or "\u2014").replace("|", "\\|").replace("\n", " ")
+        pl = (r.get("primaryLanguage") or {}).get("name", "—")
+        desc, live = readme_info(r) if TOKEN else (r.get("description") or "—", r.get("homepageUrl"))
+        desc = desc.replace("|", "\\|").replace("\n", " ")
+        live_md = "[Open ↗](%s)" % live if live else "—"
         nm = "[**%s**](%s)%s" % (r["name"], r["url"], " (archived)" if r["isArchived"] else "")
-        out.append("| %s | %s | %s | %d | %d | %s |" % (nm, desc, pl, r["stargazerCount"], r["forkCount"], when(r.get("pushedAt"))))
+        out.append("| %s | %s | %s | %s | %d | %d | %s |" % (nm, desc, live_md, pl, r["stargazerCount"], r["forkCount"], when(r.get("pushedAt"))))
     forks = [r for r in nodes if r["isFork"]]
     if forks:
         out += ["", "<details><summary>Forked repositories (%d)</summary>" % len(forks), ""]
-        out += ["- [%s](%s) \u2014 %s" % (r["name"], r["url"], (r.get("description") or "no description").replace("\n", " ")) for r in forks]
+        out += ["- [%s](%s) — %s" % (r["name"], r["url"], (r.get("description") or "no description").replace("\n", " ")) for r in forks]
         out += ["", "</details>"]
     if u["repositories"]["totalCount"] > len(nodes):
         out.append("\n_Showing the %d most recently pushed of %d public repositories._" % (len(nodes), u["repositories"]["totalCount"]))
     return "\n".join(out)
-
 
 def sub(text, tag, body):
     pat = re.compile(r"(<!--%s:START-->)(.*?)(<!--%s:END-->)" % (tag, tag), re.S)
