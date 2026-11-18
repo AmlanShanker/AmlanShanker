@@ -187,17 +187,23 @@ A responsive, interactive web application that simplifies booking movie tickets.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,kotlin,android,python,git,github,figma,vscode&perline=8" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,django,python,java,kotlin,android,mongodb,firebase,aws,kubernetes,git,github,figma,vscode&perline=8" alt="Technologies and tools">
 
 </div>
 
-| Layer | Technologies |
+| Area | Skills |
 | :-- | :-- |
-| Frontend | HTML, CSS, JavaScript, React |
-| Backend | Node.js, Express, Java, Python |
-| Database | MongoDB |
+| Full stack | MERN Stack, PERN Stack |
+| Frontend | HTML, CSS, JavaScript, React.js, Redux.js |
+| Backend | Node.js, Express, Django, Python, Java, JSON Web Token (JWT) |
+| Database | MongoDB, Firebase, NoSQL, Neo4j, Cassandra, Graph Databases |
 | Mobile | Kotlin, Android |
-| Tools | Git, GitHub, VS Code, Figma |
+| AI & Data | AI Agents, Google ADK, Retrieval-Augmented Generation (RAG), LLM Fine-Tuning, NLP, Sentiment Analysis, Machine Learning, Gemini API, Data Analysis, Pandas |
+| Cloud & DevOps | AWS, Cloud Computing, Kubernetes, Google Kubernetes Engine (GKE), kubectl |
+| Security | Cybersecurity, Threat Detection, Network Vulnerabilities |
+| Tools | Git, GitHub, Version Control, VS Code, Figma, Jupyter |
+
+<sub>Skills and technologies listed from the Tech Stack section of my [portfolio website](https://amlanshanker.github.io/Portfolio/).</sub>
 
 <img src="./assets/divider.svg" alt="" width="100%">
 
