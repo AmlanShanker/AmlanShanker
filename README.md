@@ -27,7 +27,7 @@ Right now I'm going deeper into full-stack architecture and AI-powered apps, wit
 ## ✦ Account at a glance
 
 <div align="center">
-<img src="./assets/stats.svg?v=590796436a11" alt="GitHub statistics" width="100%">
+<img src="./assets/stats.svg?v=1080992d22dc" alt="GitHub statistics" width="100%">
 </div>
 
 <!--FACTS:START-->
@@ -43,7 +43,7 @@ Right now I'm going deeper into full-stack architecture and AI-powered apps, wit
 | Following | 0 |
 | Starred repositories | 9 |
 | Stars earned | 8 |
-| Contributions (12 months) | 345 |
+| Contributions (12 months) | 456 |
 <!--FACTS:END-->
 
 _The table and the cards above refresh automatically from the GitHub API._
@@ -53,7 +53,7 @@ _The table and the cards above refresh automatically from the GitHub API._
 ## ✦ Contribution dunes
 
 <div align="center">
-<img src="./assets/dunes.svg?v=4f02e048f0d7" alt="Contribution graph over the last 12 months" width="100%">
+<img src="./assets/dunes.svg?v=daea39122dc5" alt="Contribution graph over the last 12 months" width="100%">
 </div>
 
 <img src="./assets/divider.svg" alt="" width="100%">
