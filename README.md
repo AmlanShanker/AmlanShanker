@@ -27,7 +27,7 @@ Right now I'm going deeper into full-stack architecture and AI-powered apps, wit
 ## ✦ Account at a glance
 
 <div align="center">
-<img src="./assets/stats.svg?v=4ff5cb1c6e17" alt="GitHub statistics" width="100%">
+<img src="./assets/stats.svg?v=590796436a11" alt="GitHub statistics" width="100%">
 </div>
 
 <!--FACTS:START-->
@@ -43,7 +43,7 @@ Right now I'm going deeper into full-stack architecture and AI-powered apps, wit
 | Following | 0 |
 | Starred repositories | 9 |
 | Stars earned | 8 |
-| Contributions (12 months) | 335 |
+| Contributions (12 months) | 345 |
 <!--FACTS:END-->
 
 _The table and the cards above refresh automatically from the GitHub API._
@@ -53,7 +53,7 @@ _The table and the cards above refresh automatically from the GitHub API._
 ## ✦ Contribution dunes
 
 <div align="center">
-<img src="./assets/dunes.svg?v=9849ea56e643" alt="Contribution graph over the last 12 months" width="100%">
+<img src="./assets/dunes.svg?v=4f02e048f0d7" alt="Contribution graph over the last 12 months" width="100%">
 </div>
 
 <img src="./assets/divider.svg" alt="" width="100%">
@@ -146,12 +146,12 @@ A responsive, interactive web application that simplifies booking movie tickets.
 <!--REPOS:START-->
 | Repository | Description | Live | Language | ★ | Forks | Last push |
 | :-- | :-- | :-- | :-- | :-: | :-: | :-- |
+| [**Autonomous-Universal-Research-Agent---AURA**](https://github.com/AmlanShanker/Autonomous-Universal-Research-Agent---AURA) | AURA is an agentic AI research system designed to autonomously AURA should eventually allow a user to provide a research question and | — | Python | 0 | 0 | Nov 2026 |
 | [**AmlanShanker**](https://github.com/AmlanShanker/AmlanShanker) | I'm a full stack developer working across the MERN stack, AI-powered applications, and Android with Kotlin. I build practical, finished software rather than throwaway demos. | [Open ↗](https://amlanshanker.github.io/Portfolio/) | Python | 0 | 0 | Nov 2026 |
 | [**Campus-Pulse-Smart-Crowd-Prediction**](https://github.com/AmlanShanker/Campus-Pulse-Smart-Crowd-Prediction) | A Smart Campus Monitoring, Crowd Analytics & Prediction Dashboard An academic dashboard built with Python, Streamlit, Pandas and Plotly for the MCA Python Programming course (MCA411-2). | [Open ↗](https://campus-pulse-smart-crowd-prediction.streamlit.app/) | Python | 0 | 0 | Nov 2026 |
 | [**CINESCOPE-Movies-Entertainment-Intelligence-Platform**](https://github.com/AmlanShanker/CINESCOPE-Movies-Entertainment-Intelligence-Platform) | An interactive movie catalogue and intelligence dashboard built with Python, Streamlit, SQLite, Plotly and TMDB. CineScope brings curated movie collections together in one place. | [Open ↗](https://cinescope-amlanshanker.streamlit.app/") | Python | 0 | 0 | Nov 2026 |
 | [**SaathiCare_Hackathon**](https://github.com/AmlanShanker/SaathiCare_Hackathon) | SaathiCare is a hackathon prototype for an elderly person, their family and a caretaker to coordinate medication schedules, appointments, check-ins and care alerts. These are demo credentials only. | [Open ↗](https://saathicare-five.vercel.app/) | JavaScript | 0 | 0 | Nov 2026 |
 | [**Portfolio**](https://github.com/AmlanShanker/Portfolio) | A full-stack developer's portfolio brought to life through immersive desert landscapes, drifting sand, interactive animations, and a cinematic visual experience. This website showcases who I am, the projects I've... | [Open ↗](https://amlanshanker.github.io/Portfolio/) | HTML | 1 | 0 | Nov 2026 |
-| [**Autonomous-Universal-Research-Agent---AURA**](https://github.com/AmlanShanker/Autonomous-Universal-Research-Agent---AURA) | AURA is an agentic AI research system designed to autonomously AURA should eventually allow a user to provide a research question and | — | Python | 0 | 0 | Oct 2026 |
 | [**FSD-Lab-8**](https://github.com/AmlanShanker/FSD-Lab-8) | CineBook is a full-stack Movie Ticket Booking System developed using React, Vite, Tailwind CSS, Node.js, Express.js, and MongoDB. The application follows a RESTful API architecture and provides a customer-centric... | [Open ↗](https://cinebook-frontend-a39szss1q-amlanshankers-projects.vercel.app/) | JavaScript | 0 | 0 | Sep 2026 |
 | [**Social-Media-MERN-Stack**](https://github.com/AmlanShanker/Social-Media-MERN-Stack) | A full-stack social media web application built using the MERN stack — MongoDB, Express.js, React.js, and Node.js. The application allows users to create accounts, log in, connect with other users, create posts, view... | — | JavaScript | 1 | 0 | Sep 2026 |
 | [**DSA**](https://github.com/AmlanShanker/DSA) | A collection of Data Structures and Algorithms implemented in Java. This repository contains my DSA learning and practice, with implementations added progressively as I learn and explore new concepts. | — | Java | 0 | 0 | Sep 2026 |
