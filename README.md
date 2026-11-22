@@ -53,7 +53,7 @@ _The table and the cards above refresh automatically from the GitHub API._
 ## ✦ Contribution dunes
 
 <div align="center">
-<img src="./assets/dunes.svg?v=9eb6e31f5646" alt="Contribution graph over the last 12 months" width="100%">
+<img src="./assets/dunes.svg?v=12e100475360" alt="Contribution graph over the last 12 months" width="100%">
 </div>
 
 <img src="./assets/divider.svg" alt="" width="100%">
