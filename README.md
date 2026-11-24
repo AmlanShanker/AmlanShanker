@@ -27,7 +27,7 @@ Right now I'm going deeper into full-stack architecture and AI-powered apps, wit
 ## ✦ Account at a glance
 
 <div align="center">
-<img src="./assets/stats.svg?v=ac825f0d1b28" alt="GitHub statistics" width="100%">
+<img src="./assets/stats.svg?v=2542195f572f" alt="GitHub statistics" width="100%">
 </div>
 
 <!--FACTS:START-->
@@ -43,7 +43,7 @@ Right now I'm going deeper into full-stack architecture and AI-powered apps, wit
 | Following | 0 |
 | Starred repositories | 9 |
 | Stars earned | 8 |
-| Contributions (12 months) | 773 |
+| Contributions (12 months) | 888 |
 <!--FACTS:END-->
 
 _The table and the cards above refresh automatically from the GitHub API._
@@ -53,7 +53,7 @@ _The table and the cards above refresh automatically from the GitHub API._
 ## ✦ Contribution dunes
 
 <div align="center">
-<img src="./assets/dunes.svg?v=2be813304f96" alt="Contribution graph over the last 12 months" width="100%">
+<img src="./assets/dunes.svg?v=11c5ae3d68e1" alt="Contribution graph over the last 12 months" width="100%">
 </div>
 
 <img src="./assets/divider.svg" alt="" width="100%">
@@ -146,7 +146,7 @@ A responsive, interactive web application that simplifies booking movie tickets.
 <!--REPOS:START-->
 | Repository | Description | Live | Language | ★ | Forks | Last push |
 | :-- | :-- | :-- | :-- | :-: | :-: | :-- |
-| [**Autonomous-Universal-Research-Agent---AURA**](https://github.com/AmlanShanker/Autonomous-Universal-Research-Agent---AURA) | AURA is an agentic AI research system designed to autonomously AURA should eventually allow a user to provide a research question and | — | Python | 0 | 0 | Nov 2026 |
+| [**Autonomous-Universal-Research-Agent---AURA**](https://github.com/AmlanShanker/Autonomous-Universal-Research-Agent---AURA) | After installing the project, the `aura` command can start the API or background worker The worker requires the configured persistent MongoDB backend. The API defaults to local development settings unless deployment... | — | Python | 0 | 0 | Nov 2026 |
 | [**AmlanShanker**](https://github.com/AmlanShanker/AmlanShanker) | I'm a full stack developer working across the MERN stack, AI-powered applications, and Android with Kotlin. I build practical, finished software rather than throwaway demos. | [Open ↗](https://amlanshanker.github.io/Portfolio/) | Python | 0 | 0 | Nov 2026 |
 | [**Campus-Pulse-Smart-Crowd-Prediction**](https://github.com/AmlanShanker/Campus-Pulse-Smart-Crowd-Prediction) | A Smart Campus Monitoring, Crowd Analytics & Prediction Dashboard An academic dashboard built with Python, Streamlit, Pandas and Plotly for the MCA Python Programming course (MCA411-2). | [Open ↗](https://campus-pulse-smart-crowd-prediction.streamlit.app/) | Python | 0 | 0 | Nov 2026 |
 | [**CINESCOPE-Movies-Entertainment-Intelligence-Platform**](https://github.com/AmlanShanker/CINESCOPE-Movies-Entertainment-Intelligence-Platform) | An interactive movie catalogue and intelligence dashboard built with Python, Streamlit, SQLite, Plotly and TMDB. CineScope brings curated movie collections together in one place. | [Open ↗](https://cinescope-amlanshanker.streamlit.app/") | Python | 0 | 0 | Nov 2026 |
